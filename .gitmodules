@@ -1,3 +1,6 @@
 [submodule "demo01-hello-world"]
 	path = demo01-hello-world
 	url = https://github.com/bighuangjin/demo01-hello-world.git
+[submodule "demo02-common-directive"]
+	path = demo02-common-directive
+	url = https://github.com/bighuangjin/demo02-common-directive.git
