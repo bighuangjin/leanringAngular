@@ -1,0 +1,3 @@
+[submodule "demo01-hello-world"]
+	path = demo01-hello-world
+	url = https://github.com/bighuangjin/demo01-hello-world.git
