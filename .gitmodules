@@ -4,3 +4,6 @@
 [submodule "demo02-common-directive"]
 	path = demo02-common-directive
 	url = https://github.com/bighuangjin/demo02-common-directive.git
+[submodule "demo03-event"]
+	path = demo03-event
+	url = https://github.com/bighuangjin/demo03-event.git
